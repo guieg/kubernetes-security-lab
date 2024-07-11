@@ -99,7 +99,7 @@ kubectl get pods vote-69cb46f6fb-v5mh7 -o yaml
 docker run aquasec/trivy image dockersamples/examplevotingapp_vote
 ```
 
-5. Para fazer analizes do cluster:
+5. Para fazer análises do cluster:
 
 ```bash
 $ helm repo add aqua https://aquasecurity.github.io/helm-charts/
